@@ -1,6 +1,6 @@
 # Chat Server
 Real Time chat application made with Django (Backend) and React (frontend).
-Django Channels on the API side with React and Websockets on the frontend. 
+Django Channels on the API side with React and Websockets on the frontend. Redis is an in-memory key-value database. Redis has many use cases, but here we will use it to implement the publish subscribe pattern. 
 
 ## Requirements
 API:
