@@ -4,10 +4,15 @@ Django Channels on the API side with React and Websockets on the frontend.
 
 ## Requirements
 API:
+
   python 3
+  
   pip
+  
   redis-server
+  
 Frontend:
+
   npm
 
 ## Setup
