@@ -17,6 +17,8 @@ Frontend:
 
 ## Setup
 
+#### Clone this repository.
+
 * I am on arch thats why I'm using pacman , one can use any package manager.
 
 ### Backend
@@ -37,5 +39,18 @@ $ source venv/bin/activate
 $ pip3 install -r requirements.txt
 
 $ redis-server & python3 manage.py runserver 0:8000
+
+```
+
+### Frontend
+
+```
+$ sudo pacman -S npm
+
+$ cd frontend
+
+$ npm install
+
+$ npm start
 
 ```
