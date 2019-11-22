@@ -38,6 +38,10 @@ $ source venv/bin/activate
 
 $ pip3 install -r requirements.txt
 
+$ python manage.py migrate
+
+$ python manage.py makemigrations
+
 $ redis-server & python3 manage.py runserver 0:8000
 
 ```
