@@ -42,7 +42,7 @@ $ python manage.py migrate
 
 $ python manage.py makemigrations
 
-$ redis-server & python3 manage.py runserver 0:8000
+$ redis-server & python3 manage.py runserver
 
 ```
 
