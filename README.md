@@ -58,3 +58,11 @@ $ npm install
 $ npm start
 
 ```
+
+## Future Additions
+
+* Login feature using the User model
+
+* Use HTTP to login and fetch messages
+
+* Show online users
