@@ -1,4 +1,4 @@
-# Chat Server
+# Chat Server :}
 Real Time chat application made with Django (Backend) and React (frontend).
 Django Channels for API  with React and Websockets on the frontend. Redis to implement the publish subscribe pattern. 
 
